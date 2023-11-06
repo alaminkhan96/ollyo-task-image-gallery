@@ -1,4 +1,4 @@
-# Task for the `React JS Developer Task Assignment at Ollyo`
+# React JS Developer Task Assignment at Ollyo
 
 > Live Link: [https://ollyo-task-image-gallery.vercel.app/](https://ollyo-task-image-gallery.vercel.app/)
 
